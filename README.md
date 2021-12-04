@@ -16,22 +16,20 @@ A few resources to get you started if this is your first Flutter project:
 
 <p>
 <h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
-<h3>first interface</h3>
-<img src="assets\images\firstpage.png" width="30">
+<img src="/assets/images/Firstpage.png" width="300">
+<h3>Adding transactions</h3>
+<img src="/assets/images/addingTransaction.png" width="300">
+<h3>Transactions</h3>
+<img src="/assets/images/Transactions.png" width="300">
+<h3>Date picker</h3>
+<img src="/assets/images/datepicker.png" width="300">
+<h3>Rotated add</h3>
+<img src="/assets\images\rotatedAdd.png" width="400">
+<h3>Rotated transaction</h3>
+<img src="/assets\images\rotatedTransactions.png" width="400">
+<h3>Rotated charts</h3>
+<img src="/assets\images\rotatedchart.png" width="400">
+<h3>Rotated transaction</h3>
+<img src="/assets\images\roteatedtransaction.png" width="400">
 
 </p>
